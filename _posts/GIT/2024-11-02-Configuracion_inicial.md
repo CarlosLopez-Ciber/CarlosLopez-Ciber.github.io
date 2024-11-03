@@ -5,8 +5,6 @@ categories: [GIT]
 tags: [git]
 ---
 
-# Configuración inicial
-
 Esto hace que los commits se asocien con un usuario y esta pueda aparecer en plataformas como GitHub.
 
 ```
